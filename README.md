@@ -13,3 +13,4 @@ Universidad Nacional Del Comahue
 # Integrantes del grupo 
 
 * Matias Torres *   - FAI-3921 - mail: matiasnicolastorres71@gmail.com - GitHub:MatiTorres18133
+* Julian Alcaraz *   - FAI-4261 - mail: julianalcaraz4@gmail.com - GitHub: Julian-Alcaraz
